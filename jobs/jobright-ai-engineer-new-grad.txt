@@ -1,0 +1,40 @@
+TITLE: AI Engineer, New Grad
+COMPANY: Jobright.ai
+LOCATION: Canada (Remote)
+URL: https://www.linkedin.com/jobs/view/4471507965/
+
+As an AI Engineer, New Grad, you will help develop, integrate, and evaluate AI-powered features used by real job seekers.
+
+Why Join Us
+
+Build real, production AI agents used by real users
+High ownership and impact
+Work at the intersection of AI, agents, and product
+
+Responsibilities
+
+Build AI-powered features for search, recommendations, and personalization
+Experiment with prompts, embeddings, retrieval, and LLM APIs
+Create evaluation datasets and measure model quality
+Integrate AI capabilities into reliable product systems
+Investigate model failures, latency, and performance issues
+Collaborate with software engineers, product managers, and data scientists
+
+Qualification
+
+Required
+
+Recent graduate or graduating soon in Computer Science, Artificial Intelligence, Machine Learning, or a related field
+Strong Python programming skills
+Understanding of machine learning, NLP, or information retrieval fundamentals
+Familiarity with APIs, Git, data processing, and debugging
+Strong analytical and problem-solving skills
+Ability to work remotely
+
+Preferred
+
+Experience with LLM applications, RAG, embeddings, or model evaluation
+Familiarity with PyTorch, TensorFlow, or scikit-learn
+Experience building AI prototypes or data pipelines
+Knowledge of recommendation systems, search, or ranking
+Interest in AI agents and consumer AI products

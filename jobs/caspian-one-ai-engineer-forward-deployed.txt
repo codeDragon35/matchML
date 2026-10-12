@@ -1,0 +1,43 @@
+TITLE: AI Engineer - Forward Deployed
+COMPANY: Caspian One (for an AI startup client)
+LOCATION: Toronto, ON (On-site / hybrid, contract)
+URL: https://www.linkedin.com/jobs/view/4462546112/
+
+About the role
+
+Caspian One has partnered with a forward thinking AI Start Up looking for an experienced AI Engineer to join their delivery ecosystem, with a strong preference for engineers based in Toronto or the surrounding region.
+
+This role sits at the intersection of engineering, client delivery, and real world problem solving. You will be responsible for taking AI solutions from concept through to production, working closely with customers on-site to integrate systems, navigate complexity, and ensure successful adoption.
+
+This is not a research role. It is a hands on delivery position focused on building, deploying, and scaling AI solutions that solve tangible business problems.
+
+What You Will Be Doing
+
+Designing and deploying AI driven workflows using large language models (LLMs) and agent based architectures
+Working directly with client systems to connect, map, and contextualise distributed data sources without heavy data ingestion
+Building context layers that reflect business rules, proprietary data, and operational processes
+Developing production ready solutions that integrate with existing enterprise environments
+Collaborating with clients through the full lifecycle, from initial use case definition through to deployment and adoption
+Handling complex delivery scenarios including change management, stakeholder alignment, and technical challenges
+Supporting rapid delivery cycles, typically delivering working solutions within 6 to 12 weeks
+Contributing to ongoing expansion by identifying additional use cases and opportunities within existing clients
+Ensuring solutions meet defined service levels where managed applications are required
+
+What They Are Looking For
+
+Proven experience delivering AI or Agentic AI solutions into production environments
+Strong experience working with large language models, agent based systems, or intelligent workflow automation
+Demonstrable experience rolling out AI solutions in a client/customer-facing environment
+Experience working across financial services or other heavily regulated industries
+Ability to work with real world, messy data across multiple systems and environments
+Experience integrating with APIs, enterprise platforms, and distributed data sources
+Strong understanding of how to move from proof of concept to scalable, production ready systems
+Experience working through change management and getting solutions successfully adopted
+Ability to operate independently while collaborating across a wider team
+A pragmatic, delivery focused mindset with a strong bias towards outcomes
+
+Nice to Have
+
+Exposure to value engineering or ROI driven solution design
+Experience working in consulting or client facing delivery roles
+Familiarity with building or deploying AI solutions within secure client environments

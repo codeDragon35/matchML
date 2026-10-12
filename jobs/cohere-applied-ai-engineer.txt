@@ -1,0 +1,32 @@
+TITLE: Applied AI Engineer, Agents and Automations
+COMPANY: Cohere
+LOCATION: Toronto, ON (Remote)
+URL: https://www.linkedin.com/jobs/view/4450357329/
+
+Why this role?
+
+North is Cohere's AI workspace platform. Some of our most important work is making the agents and AI-powered experiences inside North genuinely useful in the workflows customers rely on every day. These systems become valuable when users can build with them, steer them, inspect their work, recover from errors, and trust them to complete messy tasks inside real enterprise environments.
+
+This role is about making those AI experiences reliable, useful, and production-ready. You will work with product engineering, modelling and design to turn model capability into reliable, user-facing systems: agent builders, eval frameworks, proactive intelligence, and new interfaces for collaborating with AI.
+
+As an Applied AI Engineer, Agents and Automations, you will:
+
+Build AI-powered product experiences that help users create, configure, evaluate, and improve workflows across North.
+Design and ship new interfaces for interacting with models, including workflow builders, proactive assistants, review flows, and other human-AI collaboration patterns.
+Build eval, observability, and feedback systems that measure whether AI experiences succeed in real enterprise workflows.
+Improve AI reliability through product design, prompting, context construction, tool-use strategies, instrumentation, and feedback loops.
+Turn production failures, user feedback, and real-task data into better product behavior, stronger eval suites, regression tests, and signals for modelling.
+Work closely with modelling, product, design, customer teams, and domain experts to define what good means for specific workflows and ship measurable improvements.
+
+Example problems include helping users build AI automations from natural language, creating evals for multi-step agent workflows, adding proactive intelligence inside the product, or creating interfaces that make agent behavior easier to inspect, steer, and trust.
+
+You May Be a Good Fit If
+
+You have shipped LLM-powered, agent-powered, or AI-assisted product experiences into production, and improved them based on real-world feedback.
+You are a strong software engineer who enjoys working across backend systems, user-facing product, data, evals, and model behavior.
+You think in terms of user outcomes and system behavior, not just model metrics.
+You have strong product taste and care about how the interface, workflow, and model work together to help users succeed.
+You enjoy debugging messy real-world failures and turning what you learn from production, user testing, and evals into durable improvements.
+You enjoy owning ambiguous problems end-to-end and working across system boundaries to ship something genuinely useful.
+
+Compensation Range: CA$215K - CA$310K

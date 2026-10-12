@@ -1,0 +1,63 @@
+TITLE: Forward Deployed Engineer
+COMPANY: Mainloop (Leyton)
+LOCATION: Barcelona, Spain (relocation required; open to Canada/US candidates)
+URL: https://www.linkedin.com/jobs/view/4471962016/
+
+The Opportunity
+
+As a Forward Deployed Engineer, you will work directly with business teams across different countries to identify opportunities, design solutions, build prototypes, and deliver AI-powered products.
+
+You will take projects from: Business problem, Process understanding, Functional design, AI-powered prototype, MVP, Handover.
+
+What You Will Do
+
+Understand Business Problems
+Travel to different countries and work directly with teams to understand their workflows.
+Learn how processes actually operate, beyond documented procedures.
+Identify inefficiencies, manual work, and opportunities for automation.
+Quantify potential business impact before building solutions.
+
+Design Solutions
+Translate business needs into clear functional requirements.
+Define workflows, users, rules, data movement, and system behavior.
+Create functional architecture documentation that guides development.
+Evaluate existing products and technology before building from scratch.
+
+Build AI-Powered Products
+Use modern AI development tools and coding agents to rapidly prototype and build solutions.
+Create working applications within weeks, not months.
+Build across frontend and backend environments.
+Iterate quickly based on stakeholder feedback.
+Deliver MVPs ready for adoption.
+
+Own Delivery and Handover
+Present prototypes and solutions directly to business users.
+Validate adoption and measure impact.
+Create documentation and handover materials.
+Transition successful products to engineering and product teams.
+
+AI-Native Engineering Environment
+
+Mainloop is built around AI from day one. You will work with AI coding agents, modern AI development workflows, automated engineering tools, internal technology platforms, shared architecture patterns.
+
+The expectation is not that you write every line of code manually. The expectation is that you can define the right solution, guide AI tools effectively, review output critically, make strong technical decisions, deliver valuable products quickly.
+
+What We Are Looking For
+
+Experience building web applications across frontend and backend.
+Strong understanding of software development fundamentals.
+Ability to understand business processes and translate them into software solutions.
+Experience using AI coding assistants or interest in becoming highly proficient with AI development tools.
+Ability to communicate clearly with both technical and non-technical stakeholders.
+Strong written and verbal communication skills.
+Ability to work independently and manage projects from idea to MVP.
+
+Qualifications
+
+Professional experience building software applications.
+Comfortable working across the full technology stack.
+Experience with modern web technologies.
+Strong problem-solving skills.
+Fluent English communication skills.
+Spanish is a plus but not required.
+Willingness to relocate to Barcelona, Spain.

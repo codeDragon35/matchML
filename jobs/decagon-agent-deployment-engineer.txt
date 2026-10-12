@@ -1,0 +1,34 @@
+TITLE: Agent Deployment Engineer
+COMPANY: Decagon
+LOCATION: Toronto, ON (On-site)
+URL: https://www.linkedin.com/jobs/view/4413240296/
+
+About The Role
+
+As an Agent Deployment Engineer, you will be responsible for end-to-end execution of AI agent builds for strategic customers. This is a highly technical delivery role where you will own the implementation work required to launch and scale enterprise-quality agents, partnering with customers and internal teams to define success, translate requirements into build plans, and deliver agents that meaningfully impact the customer's business.
+
+In this role, you will
+
+Own end-to-end architecture and execution of AI agent builds for enterprise customers, from systems design and initial scoping through implementation, evaluation, and production deployment.
+Design and engineer the core agentic logic governing agent behavior, applying engineering principles to optimize quality, reliability, and correctness across non-deterministic model outputs.
+Engineer and validate layered guardrails and supervisory controls to ensure safe, compliant, and predictable agent performance across real-world scenarios.
+Architect, build, and test integrations with customer systems (e.g., data pipelines, CRMs, ticketing systems), including building the tools, APIs, and workflows needed for reliable deployments at scale.
+Interface with senior technical stakeholders at customers to define success criteria and system requirements, and drive technical delivery against timelines.
+Diagnose, debug, and resolve both probabilistic and technical failures through root-cause analysis of execution traces, error logs, and model behavior.
+Design evaluation and regression-testing frameworks to validate agent behavior against ground truth and guard against performance drift.
+Translate customer needs into clear internal documentation and run tight feedback loops with Engineering to drive platform improvements.
+
+Your background looks something like this
+
+Have 5+ years of relevant experience in a technical customer-facing role (e.g., solutions engineering, forward-deployed engineering, technical consulting, implementation engineering, technical product/PM, or similar).
+Strong technical foundation: comfortable writing code, working with APIs, and building/validating integrations end-to-end.
+Experience delivering production-grade customer solutions that require structured execution, testing/validation, and iteration.
+Ability to communicate clearly with senior technical stakeholders, translate requirements into implementation plans, and drive delivery.
+Comfort working in fast-moving, ambiguous environments where you shape solutions as much as you implement them.
+
+Even better if you have
+
+Experience building with or around LLMs / AI agents (prompting, evaluation, guardrails, tooling, workflow design, etc.).
+Experience with enterprise SaaS integrations (e.g., ticketing systems, CRM, data pipelines) and associated security/compliance considerations.
+A Computer Science, Engineering, or Math degree, or equivalent technical experience.
+Strong product instinct: ability to write crisp PRDs, define success metrics, and contribute customer insight back into product roadmap.

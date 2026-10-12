@@ -1,0 +1,62 @@
+{
+  "_comment": "Candidate skill inventory keyed to taxonomy ids. Depth is deliberate: a certificate is not production experience, and the scorer gives it partial credit only.",
+  "name": "Dharvi Kumra",
+  "target_roles": [
+    "Forward Deployed Engineer",
+    "Applied AI Engineer",
+    "AI Engineer",
+    "Software Developer (AI-assisted)"
+  ],
+  "location_rules": {
+    "remote_anywhere": true,
+    "onsite_country_restriction": "Canada",
+    "onsite_region_restriction": "Ontario"
+  },
+  "depth_credit": {
+    "strong": 1.0,
+    "working": 1.0,
+    "exposure": 0.5
+  },
+  "skills": {
+    "java": {"depth": "strong", "evidence": "2+ yrs Citi Bank systems at Maveric Systems"},
+    "spring_boot": {"depth": "strong", "evidence": "Citi Bank backend services"},
+    "rest_api": {"depth": "strong", "evidence": "Backend services at Maveric, APIs in current SaaS platforms"},
+    "microservices": {"depth": "strong", "evidence": "Banking system modernisation at Maveric"},
+    "sql": {"depth": "strong", "evidence": "Backend and data analysis work"},
+    "python": {"depth": "strong", "evidence": "MSc AI dissertation, RASA chatbots, data analysis"},
+    "machine_learning": {"depth": "strong", "evidence": "MSc AI (Distinction), music genre classification dissertation"},
+    "nlp": {"depth": "strong", "evidence": "RASA contextual chatbot series, Omdena audio analysis, NLP certification"},
+    "debugging": {"depth": "strong", "evidence": "Listed skill across all engineering roles"},
+    "git": {"depth": "strong", "evidence": "All engineering roles"},
+    "agile": {"depth": "working", "evidence": "Agile Scrum Foundation (Simplilearn)"},
+
+    "nextjs": {"depth": "working", "evidence": "Next.js 15 API layer, current multi-tenant SaaS platforms"},
+    "react": {"depth": "working", "evidence": "Vite/React frontends, current platforms"},
+    "typescript": {"depth": "working", "evidence": "Current SaaS platform codebases"},
+    "vite": {"depth": "working", "evidence": "Frontend build for scholarships platform"},
+    "nodejs": {"depth": "working", "evidence": "Next.js server runtime"},
+    "postgresql": {"depth": "working", "evidence": "Neon Postgres, current platforms"},
+    "orm": {"depth": "working", "evidence": "Drizzle ORM, current platforms"},
+    "auth": {"depth": "working", "evidence": "NextAuth v5 with Google/GitHub/Microsoft/LinkedIn SSO"},
+    "multi_tenant": {"depth": "working", "evidence": "Subdomain tenant isolation, tenant-scoped data model"},
+    "payments": {"depth": "working", "evidence": "Stripe billing integration"},
+    "ai_coding_tools": {"depth": "strong", "evidence": "Ships production platforms with Claude Code daily"},
+    "anthropic_api": {"depth": "working", "evidence": "Claude Code as primary development workflow"},
+    "client_facing": {"depth": "working", "evidence": "Delivery for US clients at Ambisoft, contract delivery at W3sols"},
+    "prototyping": {"depth": "working", "evidence": "Platform delivery on short client cycles"},
+    "stakeholder_mgmt": {"depth": "working", "evidence": "Client delivery; volunteer leadership of 20-person Omdena team"},
+    "requirements_analysis": {"depth": "working", "evidence": "Translating client needs into platform features"},
+    "documentation": {"depth": "working", "evidence": "Published technical tutorial series on Codementor"},
+    "angular": {"depth": "working", "evidence": "AngularJS + Angular Material at Maveric Systems"},
+
+    "openai_api": {"depth": "exposure", "evidence": "Building Systems with ChatGPT API (DeepLearning.AI)"},
+    "prompt_engineering": {"depth": "exposure", "evidence": "Generative AI tooling certification (Udemy)"},
+    "llm": {"depth": "exposure", "evidence": "Google Cloud Skills Boost (LLM track), ChatGPT API coursework"},
+    "pandas": {"depth": "exposure", "evidence": "Data Analysis with Python (Coursera, 95%), NPower Junior Data Analyst"},
+    "azure": {"depth": "exposure", "evidence": "Microsoft Certified: Azure AI Fundamentals"},
+    "scikit_learn": {"depth": "exposure", "evidence": "MSc and PG Diploma coursework"},
+    "information_retrieval": {"depth": "exposure", "evidence": "NLP and recommendation coursework"},
+    "data_pipelines": {"depth": "exposure", "evidence": "Python scraping pipelines for Omdena vessel-imagery project"},
+    "computer_vision": {"depth": "exposure", "evidence": "AI colour separator project, Omdena imagery work"}
+  }
+}
